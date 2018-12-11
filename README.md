@@ -1,24 +1,4 @@
-# README
+# tübular
+> Single page chat application for watching YouTube videos in sync with other users.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This the backend of this project, for information, installation instructions, and more, check out the [frontend](https://github.com/gothfemme/mod-3-final-project-frontend/).
